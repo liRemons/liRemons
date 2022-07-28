@@ -1,11 +1,10 @@
-<h1 align="center">Hi Remons👋</h1>
+<h1 align="center">Hi liRemons👋</h1>
 <p></p>
-
 
 - 🔭 正在打造 `remons-componets`（基于 antd 封装的易用组件库）
 - 🌱 正在学习 TS、webpack .......
 - 🌱 目前基于 webpack 5.0 打造了静态文件打包器，基于此，可以实现最低的微前端成本（iframe）
-- 🤔 完善`remons-components` 后，后面考虑使用 qiankun OR micro-app 打造个人微前端项目
+- 🤔 完善`remons-components` 后，后面考虑使用 `qiankun` / `micro-app` 打造个人微前端项目
 - 📫 remons@foxmail.com
 
 <h2 align="center"><a href="http://remons.cn" target="_blank">个人主页</a></h2>
@@ -13,7 +12,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liRemons&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liRemons&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liRemons&layout=compact&langs_count=10&exclude_repo=FEQ,electron_szlimsWeb)
 
 <h2 align="center">我的开源项目</h2>
 
