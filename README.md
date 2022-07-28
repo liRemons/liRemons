@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">Hi liRemons👋</h1>
+<p></p>
 
-<!--
-**liRemons/liRemons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 正在打造 `remons-componets`（基于 antd 封装的易用组件库）
+- 🌱 正在学习 TS、webpack .......
+- 🌱 目前基于 webpack 5.0 打造了静态文件打包器，基于此，可以实现最低的微前端成本（iframe）
+- 🤔 完善`remons-components` 后，后面考虑使用 qiankun OR micro-app 打造个人微前端项目
+- 📫 remons@foxmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center"><a href="http://remons.cn" target="_blank">个人主页</a></h2>
+<p></p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liRemons&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liRemons&layout=compact&langs_count=10)
+
+<h2 align="center">我的开源项目</h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liRemons&repo=remons-components)](https://github.com/liRemons/remons-components)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liRemons&repo=formatter-data)](https://github.com/liRemons/formatter-data)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liRemons&repo=create-app-cli)](https://github.com/liRemons/create-app-cli)
