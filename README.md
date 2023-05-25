@@ -1,7 +1,7 @@
 <h1 align="center">Hi Remons👋</h1>
 <p></p>
 
-- 🔭 正在打造 `remons-components`（基于 antd 封装的易用组件库）
+- 🔭  `remons-components`已发布，持续优化中（基于 antd 封装的易用组件库）
 - 🌱 正在学习 TS、webpack .......
 - 🌱 目前基于 webpack 5.0 打造了静态文件打包器，基于此，可以实现最低的微前端成本（iframe）
 - 🤔 计划使用 `wujie` / `micro-app` 打造个人微前端项目
