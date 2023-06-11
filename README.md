@@ -2,7 +2,7 @@
 <p></p>
 
 - 🔭  `remons-components`已发布，持续优化中（基于 antd 封装的易用组件库）
-- 🌱 计划打造 listDetil lowcode
+- 🌱 计划打造 listDetail lowcode
 - 🌱 目前基于 webpack 5.0 打造了静态文件打包器，基于此，可以实现最低的微前端成本（iframe）
 - 🤔 计划使用 `wujie` / `micro-app` 打造个人微前端项目
 - 📫 remons@foxmail.com
