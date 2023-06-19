@@ -10,8 +10,6 @@
 <h2 align="center"><a href="http://remons.cn" target="_blank">个人主页</a></h2>
 <p></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liRemons&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liRemons&layout=compact&langs_count=10&exclude_repo=FEQ,electron_szlimsWeb)
 
 <h2 align="center">我的开源项目</h2>
