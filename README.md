@@ -10,6 +10,7 @@
 <h2 align="center"><a href="http://remons.cn" target="_blank">个人主页</a></h2><p> <p/>
 
 [![GitHub 语言统计](https://img.shields.io/github/languages/top/liRemons/render-markdown?logo=github)](https://github.com/liRemons/render-markdown) &nbsp; [![GitHub 语言统计](https://img.shields.io/github/languages/top/liRemons/remons-components?logo=github)](https://github.com/liRemons/remons-components) &nbsp; [![GitHub 语言统计](https://img.shields.io/github/languages/top/liRemons/website_pages?logo=github)](https://github.com/liRemons//website_pages)
+ &nbsp; [![GitHub 语言统计](https://img.shields.io/github/languages/top/liRemons/agent-python?logo=github)](https://github.com/liRemons/agent-python)
 
 <h2 align="center">我的开源项目</h2><p> <p/>
 
