@@ -5,6 +5,7 @@
 - 🌱 目前基于 webpack 5.0 打造了静态文件打包器，基于此，可以实现最低的微前端成本（iframe）
 - 🤔 计划使用 `wujie` / `micro-app` 打造个人微前端项目
 - `remons-render-markdown` 支持mermaid、Tabs 标签渲染的 markdown 组件包
+- `remons-markdown-editor` markdown 编辑器
 - 📫 remons@foxmail.com
 
 <h2 align="center"><a href="http://remons.cn" target="_blank">个人主页</a></h2><p> <p/>
