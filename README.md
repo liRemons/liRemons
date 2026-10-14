@@ -1,7 +1,7 @@
 <h1 align="center">Hi Remons👋</h1><p
 
 - 🔭  `remons-components`已发布，持续优化中（基于 antd 封装的易用组件库）
-- 🌱 计划打造 listDetail lowcode
+- 🌱 `Python` 和 `langChain` 打造AI投研分析 Agent 工具
 - 🌱 目前基于 webpack 5.0 打造了静态文件打包器，基于此，可以实现最低的微前端成本（iframe）
 - 🤔 计划使用 `wujie` / `micro-app` 打造个人微前端项目
 - `remons-render-markdown` 支持mermaid、Tabs 标签渲染的 markdown 组件包
